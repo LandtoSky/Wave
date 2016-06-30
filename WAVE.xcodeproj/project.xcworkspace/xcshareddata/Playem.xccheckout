@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD04E0EB-D38F-4DD8-8E89-906831D9FF84</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Playem</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFFFE86F72314996ADBEBC11C806C1EB70936FFF</key>
+		<string>backup.panoiu.com:/share/backup/SYNC/gitrepo/Playem-v4</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Playem.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFFFE86F72314996ADBEBC11C806C1EB70936FFF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>backup.panoiu.com:/share/backup/SYNC/gitrepo/Playem-v4</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFFFE86F72314996ADBEBC11C806C1EB70936FFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFFFE86F72314996ADBEBC11C806C1EB70936FFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Playem-v4</string>
+		</dict>
+	</array>
+</dict>
+</plist>
